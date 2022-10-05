@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Renza_server_side</string>
+    <string name="choose_a_category">Choose a category :</string>
+    <string name="upload_song">Upload song</string>
+    <string name="select_a_file">Select a file</string>
+    <string name="button">Button</string>
+    <string name="upload">upload</string>
+    <string name="title">title</string>
+    <string name="album" />
+    <string name="artist" />
+    <string name="data" />
+    <string name="duration" />
+    <string name="album1">album</string>
+    <string name="artist1">artist</string>
+    <string name="data1">data</string>
+    <string name="duration1">duration</string>
+    <string name="todo">TODO</string>
+    <string name="open_upload_album_activity">open upload album activity</string>
+    <string name="dataa">dataa</string>
+    <string name="choose">Choose</string>
+    <string name="choose_category">Choose Category :</string>
+    <string name="enter_album_name">Enter album name</string>
+</resources>

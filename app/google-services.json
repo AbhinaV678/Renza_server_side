@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410458835995",
+    "project_id": "renza-server-side",
+    "storage_bucket": "renza-server-side.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410458835995:android:3d29c507897165a9527cbe",
+        "android_client_info": {
+          "package_name": "com.example.renza_server_side"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410458835995-d4ekonhmekne3heb08506adnn1ip51dt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIFMfIWqiB-tGEmcwzgjlcOq4ufcJ7OeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410458835995-d4ekonhmekne3heb08506adnn1ip51dt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
